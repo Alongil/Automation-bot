@@ -1,7 +1,7 @@
 const puppeteer = require('puppeteer');
 const sneakerboxtlvLoginInfo = {
-  email: 'Smork123@gmail.com',
-  password: '0545565159'
+  email: '*****',
+  password: '*******'
 };
 
 const url = process.argv[2];
